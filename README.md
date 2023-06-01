@@ -98,10 +98,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="https://hafizmassamtabraizkhan.github.io/Kanbanboard/dist/"></a>
+## 🚀 Live Demo <a name="https://katfogy.github.io/javascript-capstone/dist/"></a>
 
 
-- [[Live Demo Link](https://hafizmassamtabraizkhan.github.io/Kanbanboard/dist/)]
+- [[Live Demo Link](https://katfogy.github.io/javascript-capstone/dist/)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +132,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:HafizMassamTabraizKhan/Kanbanboard.git
+  git clone git@github.com:katfogy/javascript-capstone.git
 ```
 -
 
@@ -178,7 +178,7 @@ Opening the index.html with  your browser
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Feel free to check the [issues page](https://github.com/HafizMassamTabraizKhan/Kanbanboard/issues).
+Feel free to check the [issues page](https://github.com/katfogy/javascript-capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
